@@ -1,3 +1,3 @@
 # first
 first repo
-author aditya
+author aditya shukla
